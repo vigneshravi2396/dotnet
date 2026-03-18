@@ -1,0 +1,27 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# App secrets (VERY IMPORTANT 🔥)
+appsettings.Development.json
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
